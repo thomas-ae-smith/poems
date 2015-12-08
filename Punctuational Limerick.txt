@@ -1,0 +1,12 @@
+% , & —
++ . ? /
+” :
+^ ;
+| $ () \
+
+
+percent comma ampersand dash
+plus period question mark slash
+quotation mark colon
+caret semicolon
+pipe dollar sign brackets backslash
