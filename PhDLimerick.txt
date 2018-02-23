@@ -1,0 +1,19 @@
+Game level design is an art
+And the software we use could be smart
+If with AI and rules
+We can build clever tools
+That handle the tedious part
+
+
+
+
+
+
+
+_ - _ _ - _ _ __
+_ - _ _ - _ _ __
+_ _ - _ _ _
+_ _ - _ _ _
+_ - _ _ - _ _ __
+
+
